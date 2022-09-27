@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118740464315",
+    "project_id": "ikramenterprise-c849d",
+    "storage_bucket": "ikramenterprise-c849d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118740464315:android:cff7e20b60f3c0ee7b2f9e",
+        "android_client_info": {
+          "package_name": "com.leadnsol.ikram_enterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118740464315-k9dk7t9j5g12oe13n4g4vju5990mb3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4_z0gRaMX8FDgLUtfYF-lBTBFuTkwv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118740464315-k9dk7t9j5g12oe13n4g4vju5990mb3lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
